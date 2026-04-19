@@ -2,37 +2,48 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Home -->
   <url>
     <loc>https://wa687997-gif.github.io/global-recipes/</loc>
-    <lastmod>2026-04-18</lastmod>
-  </url>
-
-  <!-- Main Pages -->
-  <url>
-    <loc>https://wa687997-gif.github.io/global-recipes/#/recipes</loc>
   </url>
 
   <url>
-    <loc>https://wa687997-gif.github.io/global-recipes/#/about</loc>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-pancakes.html</loc>
   </url>
 
-  <!-- Recipes -->
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/pancakes</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/spaghetti</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/croissants</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/alfredo</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/schnitzel</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/pizza</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/salad</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/burger</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/fishchips</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/cake</loc></url>
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-pizza.html</loc>
+  </url>
 
-  <!-- New Recipes -->
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/buffalo-wings</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/lobster-roll</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/french-crepes</loc></url>
-  <url><loc>https://wa687997-gif.github.io/global-recipes/#/recipe/ice-cream-sundae</loc></url>
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-burger.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-spaghetti.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-fishchips.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-cake.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-salad.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-buffalo-wings.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-lobster-roll.html</loc>
+  </url>
+
+  <url>
+    <loc>https://wa687997-gif.github.io/global-recipes/recipe-crepes.html</loc>
+  </url>
 
 </urlset>
